@@ -1,0 +1,1 @@
+Start new symfony project 2.12.2024
